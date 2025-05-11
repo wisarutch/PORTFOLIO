@@ -1,6 +1,6 @@
 # Portfolio
-+ [About me](#About-me)
-- [CV](#CV)
+- [About me](#About-me)
+- [Resume](#Resume)
 - [Tools](#Tools)
 - [Skills](#Skills) 
     - [Technical Skills](#TechnicalSkills)
@@ -33,7 +33,6 @@ You can find example of my works and explanation about the projects
 
 #### Automated Testing
 - can write test-step and available to use robotframework.
-- Capable about locator and understand DOM in HTML language.
 
 #### SQL
 - know how to create edit update and delete database and table
@@ -86,7 +85,7 @@ You can find example of my works and explanation about the projects
 
 
 - Automated testing use Robotframework
-  - 
+  - Login Page, Register Page, Search Page test execute using robotframawork [check the repository](https://github.com/wisarutch/automated-testing)        
 
 - Bug reports and work in JIRA
 
