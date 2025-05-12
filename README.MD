@@ -5,7 +5,7 @@
 - [Skills](#Skills) 
     - [Technical Skills](#TechnicalSkills)
     - [Tools](#Tools)
-- Example of my works
+- [Example of my works](#Exampleofmywork)
     - Test cases and Test scenarios
     - Bug reports and work in CRM
     - API Testing project using Postman
@@ -85,9 +85,18 @@ You can find example of my works and explanation about the projects
 
 
 - Automated testing use Robotframework
-  - Login Page, Register Page, Search Page test execute using robotframawork [check the repository](https://github.com/wisarutch/automated-testing)        
+  - Login Page, Register Page, Search Page test execute using robotframawork [check the repository]()        
 
-- Bug reports and work in JIRA
+- Bug reports [check the Google](https://docs.google.com/spreadsheets/d/1GHFySmp5w5l0hiepC4BKjFiVV2P5zKIy4xG80EPDlmc/edit?usp=sharing)
+
+- SQL Basic
+    -   SQL tasks [check the repository](https://github.com/wisarutch/automated-testing)  
+
+Several bugs found on the training webpage Loan Calculator and reported:
+Bug #1. Check the screenshot of the bug report in Jira.
+Bug #2. Check the screenshot of the bug report in Jira.
+Bug #3. Check the screenshot of the bug report in Jira.
+An example of a project in Jira. Check the screenshot.
 
 - API testing project using Postman
 
