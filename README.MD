@@ -1,6 +1,6 @@
 # Portfolio
-- [About me](#About-me)
-- [Resume](#Resume)
+- [About me](#About-me:wave:)
+- [Resume](#Resume:mag:)
 - [Technical Skills](#TechnicalSkills)
 - [Soft Skills](#SoftSkills)
 - [Tools](#Tools)
