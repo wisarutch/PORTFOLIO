@@ -15,8 +15,7 @@
 
  I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — **to become a mid-level software tester in 3 years.** :muscle:
 
-[My Linkedin](https://www.linkedin.com/in/wisarut-chuduang-b592531b1/) <a href="https://www.linkedin.com/in/wisarut-chuduang-b592531b1/"><img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+ [My Linkedin](https://www.linkedin.com/in/wisarut-chuduang-b592531b1/) <a href="https://www.linkedin.com/in/wisarut-chuduang-b592531b1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
 
 
 # Resume :mag:
@@ -52,7 +51,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 - energetic and motivated
 - well-organized
 
-# Tools:wrench:
+# Tools :wrench:
 - CRM - project management ,bug tracking
 - Gather - communication within the team
 - Google Drive - storing informations and documents about project
@@ -97,7 +96,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 
 - Jmeter (Coming Soon...)
 
-![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)![alt text](image-4.png)![alt text](image-8.png)![alt text](image-7.png)![alt text](image-6.png)![alt text](image-5.png)
+![alt text](/Icon/image-1.png)![alt text](/Icon/image-2.png)![alt text](/Icon/image-3.png)![alt text](/Icon/image-4.png)![alt text](/Icon/image-8.png)![alt text](/Icon/image-7.png)![alt text](/Icon/image-6.png)![alt text](/Icon/image-5.png)
 
 # Courses:mortar_board:
 ##### Software testing by P'Beam - Facebook Page
