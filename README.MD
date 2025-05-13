@@ -98,7 +98,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 
 ![alt text](/Icon/image-1.png)![alt text](/Icon/image-2.png)![alt text](/Icon/image-3.png)![alt text](/Icon/image-4.png)![alt text](/Icon/image-8.png)![alt text](/Icon/image-7.png)![alt text](/Icon/image-6.png)![alt text](/Icon/image-5.png)
 
-# Courses:mortar_board:
+# Courses :mortar_board:
 ##### Software testing by P'Beam - Facebook Page
 - Software Testing Manual – by Kru P’ Beam
 - SQL Basic for Software Testing– by Kru P’ Beam
@@ -115,7 +115,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 - เรียนรู้การใช้งาน Postman สำหรับผู้เริ่มต้น
 - เรียนรู้การใช้งาน Visual Studio Code สำหรับผู้เริ่มต้น
 
-# Certificates🏆
+# Certificates 🏆
 - [Software Testing Manual – by Kru P’ Beam](https://drive.google.com/file/d/1qu-saoM4nWrelwKPZLW1vSy3ySwf3MIC/view?usp=sharing)
 - [SQL Basic for Software Testing– by Kru P’ Beam](https://drive.google.com/file/d/1daMeEB21P_kyL__dBuP7DqZPb_0ZTUsE/view?usp=sharing)
 - [UI Automation Testing with Robot Framework– by Kru P’ Beam](https://drive.google.com/file/d/1JiBlfXtB0fYNLg6q0e_uETi0YE5Bv7vu/view?usp=sharing)
