@@ -1,13 +1,4 @@
 # Portfolio
-<!-- - [About me](#About-me:wave:)
-- [Resume](#Resume:mag:)
-- [Technical Skills](#TechnicalSkills)
-- [Soft Skills](#SoftSkills)
-- [Tools](#Tools)
-- [Example of my works](#Exampleofmywork)
- 
-- [Courses](#Courses)
-- [Certificates](#Certificates) -->
 
 # About me :wave:
  Hi, My name is Wisarut Chudung. Since the beginning of 2023 I have been studying and practicing to become a Software Tester. I found out about this career relatively recently and I liked it so much.I am always **positive**,**flexible**,**fast learner** **and love learning new things.**  Additionally, **I have a keen interest in continuously developing skills,I have also started learning test automation and learning about new technologies.** I have the skills of exploratory testing, testing of websites and mobile applications,  writing test cases ,writing scenarios, reporting defects and creating test reports. I know how to use SQL, Postman ,VS Code , GIT , JMeter and  Automated Testing  – Selenium,Appium, Robot Framework  basics.:wink:  
@@ -83,8 +74,8 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 
 - Bug reports [check the Google](https://docs.google.com/spreadsheets/d/1GHFySmp5w5l0hiepC4BKjFiVV2P5zKIy4xG80EPDlmc/edit?usp=sharing)
 
-- Automated testing use Robotframework (Coming Soon...)
-  - Login Page test execute using robotframawork [check the repository]()     
+- Automated testing use Robotframework
+  - Home Page test execute using robotframawork [check the repository]()     
 
 - Appium And Mobile Automation Testing On Android  [check the repository]()       
 
