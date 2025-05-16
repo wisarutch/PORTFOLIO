@@ -1,5 +1,5 @@
 # Portfolio
-- [About me](#About-me:wave:)
+<!-- - [About me](#About-me:wave:)
 - [Resume](#Resume:mag:)
 - [Technical Skills](#TechnicalSkills)
 - [Soft Skills](#SoftSkills)
@@ -7,8 +7,7 @@
 - [Example of my works](#Exampleofmywork)
  
 - [Courses](#Courses)
-- [Certificates](#Certificates)
-
+- [Certificates](#Certificates) -->
 
 # About me :wave:
  Hi, My name is Wisarut Chudung. Since the beginning of 2023 I have been studying and practicing to become a Software Tester. I found out about this career relatively recently and I liked it so much.I am always **positive**,**flexible**,**fast learner** **and love learning new things.**  Additionally, **I have a keen interest in continuously developing skills,I have also started learning test automation and learning about new technologies.** I have the skills of exploratory testing, testing of websites and mobile applications,  writing test cases ,writing scenarios, reporting defects and creating test reports. I know how to use SQL, Postman ,VS Code , GIT , JMeter and  Automated Testing  – Selenium,Appium, Robot Framework  basics.:wink:  
@@ -93,6 +92,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
     -   SQL tasks [check the repository](https://github.com/wisarutch/automated-testing)  
 
 - API testing project using Postman (Coming Soon...)
+- API Report using Newman (Coming Soon...)
 
 - Jmeter (Coming Soon...)
 
