@@ -9,7 +9,7 @@
 
 
 # Resume :mag:
-You can download my Resume as [a PDF from my Google Drive.](https://drive.google.com/file/d/1JNIWpp07WkRwnC22Q7M2TvzTZANiRYSC/view?usp=sharing)
+You can download my Resume as [a PDF from my Google Drive.](https://drive.google.com/file/d/13mz8vLT4ZoPAR-ZzLGN1tkIgXxjeVpWv/view?usp=sharing)
 
 # Technical Skills :computer: 
 #### Manual Testing
