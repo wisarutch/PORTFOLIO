@@ -63,7 +63,7 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 
 
 
-# Examples of my work :point_down:
+# Examples  :point_down:
 - Test cases and Test scenarios
   - Test case #1 for testing Register page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1hXC-fViRKWqntz5qJbmli6G4E9ktn0ycv9hmhM7RyNw/edit?usp=sharing)  (Sheet1)
   - Test case #2 for testing Passenger Page.[check the Google sheet here](https://docs.google.com/spreadsheets/d/1hXC-fViRKWqntz5qJbmli6G4E9ktn0ycv9hmhM7RyNw/edit?usp=sharing)  (Sheet2)
