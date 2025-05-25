@@ -82,8 +82,9 @@ You can download my Resume as [a PDF from my Google Drive.](https://drive.google
 - SQL Basic  (Coming Soon...)
     <!-- -   SQL tasks [check the repository](https://github.com/wisarutch/automated-testing)   -->
 
-- API testing project using Postman (Coming Soon...)
-- API Report using Newman (Coming Soon...)
+- API testing project using Postman [check here](https://drive.google.com/file/d/12tYbNWpcHGTvpJYMGvhHOc4bouNIsWxH/view?usp=sharing)
+
+- API Report using Newman [check here](https://drive.google.com/file/d/16ntfB2ocyvewWBXqllN13XBB5KMOiSd7/view?usp=sharing)
 
 - Jmeter (Coming Soon...)
 
